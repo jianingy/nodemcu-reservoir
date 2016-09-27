@@ -1,0 +1,3 @@
+[submodule "nodemcu-bootstrap"]
+	path = nodemcu-bootstrap
+	url = https://github.com/jianingy/nodemcu-bootstrap.git
