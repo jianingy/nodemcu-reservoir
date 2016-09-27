@@ -46,7 +46,7 @@ function send_data(text)
 end
 
 function on_ready ()
-   print("app: system is ready. starting app version 0.1.5")
+   print("app: system is ready. starting app version 0.1.6")
 
    local pin_pump = settings.pin.pump
    local pin_scale = settings.pin.scale
